@@ -1,0 +1,102 @@
+{
+    "menu": [
+        {
+            "kategori": "burger",
+            "nama": "BBQ Steakhouse Beef",
+            "deskripsi": "memiliki cita rasa daging steak dengan bumbu barbekyu yang lezat. Selain itu, di dalamnya juga terdapat pelengkap lain seperti selada, tomat, acar keju dan masih banyak lagi.",
+            "harga": 58000,
+            "gambar": "Beef.png"
+        },
+        {
+            "kategori": "burger",
+            "nama": "BBQ Beef Rasher",
+            "deskripsi": "Menu ini terdiri dari burger, kentang goreng, dan coca-cola. Untuk burgernya berisi daging sapi panggang, keju, dan beef rasher.",
+            "harga": 60000,
+            "gambar": "Beef Rasher.png"
+        },
+        {
+            "kategori": "burger",
+            "nama": "Cheeseburger",
+            "deskripsi": "Burger yang satu ini terdiri dari daging sapi setebal 1 cm, acar timun, satu lembar keju cheddar, saus sambal dan mustard.",
+            "harga": 55000,
+            "gambar": "cheeseburger.png"
+        },
+        {
+            "kategori": "burger",
+            "nama": "Classic Crispy Chicken",
+            "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
+            "harga": 50000,
+            "gambar": "Crispy.png"
+        },
+        {
+            "kategori": "burger",
+            "nama": "Cheese Whopper",
+            "deskripsi": " Menu spesial dari Burger King ini merupakan burger dengan isian patty daging ayam yang renyah dan lezat.",
+            "harga": 59000,
+            "gambar": "Whopper.png"
+        },
+        {
+            "kategori": "burger",
+            "nama": "Whopper Junior",
+            "deskripsi": "Dipanggang, daging sapi cincang. krim putih lembut di tiap lapisan.",
+            "harga": 48000,
+            "gambar": "Junior.png"
+        },
+        {
+            "kategori": "burger",
+            "nama": "Mozarella Cheseeburger",
+            "deskripsi": "Terdiri dari daging sapi, keju mozzarella yang melimpah, dan saus khas Burger King yang enak. Mozzarella Cheeseburger ini tersedia dalam ukuran Reguler dan XL.",
+            "harga": 67000,
+            "gambar": "Mozarella.png"
+        },
+        {
+            "kategori": "burger",
+            "nama": "Kuro Ninja Beef Burger",
+            "deskripsi": "Burger hitam ini terdiri dari bun atau roti yang berwarna hitam dari charcoal, lalu ada juga keju Jalapeno, beef rasher berukuran besar, saus Yuzu, serta keju mozzarella.",
+            "harga": 57000,
+            "gambar": "Kuro.png"
+        },
+        {
+            "kategori": "burger",
+            "nama": "Sakura Beef Burger",
+            "deskripsi": " Menu ini merupakan burger dengan roti lapis berwarna pink yang memanjakan mata. Di dalamnya terdapat flame-grilled beef patty, bawang bombay, potongan nanas segar dan keju mozzarella dan ada saus yakinikunya.",
+            "harga": 53000,
+            "gambar": "Sakura.png"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Coca-Cola",
+            "deskripsi": "Large",
+            "harga": 25000,
+            "gambar": "Coke.png"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Fanta",
+            "deskripsi": "Large",
+            "harga": 25000,
+            "gambar": "fanta.png"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Sprite",
+            "deskripsi": "Large",
+            "harga": 25000,
+            "gambar": "sprite.png"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Lemon Tea",
+            "deskripsi": "Large",
+            "harga": 25000,
+            "gambar": "lemontea.png"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Mineral Water",
+            "deskripsi": "",
+            "harga": 8000,
+            "gambar": "mineral.png"
+        }
+    ]
+}
